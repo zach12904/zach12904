@@ -1,0 +1,34 @@
+.splash-screen {
+  background-image: url("img/laptop.png");
+  background-reapeat: no-repeat;
+  background-size: cover;
+  height: 969px;
+}
+
+  .navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    position: sticky;
+    margin-top: 10px
+  }
+  .navbar-brand{
+    padding-left: 50px
+  }
+  .active{
+    color:#10C9C3
+  }
+  .nav navbar-nav{
+    text-align: right;
+    color:black
+  }
+.gallery {
+  margin: 0;
+  padding: 0;
+}
+.baa {
+  background-color: #10C9C3;
+}
+  .glob{
+    background-color:#FSF5F5;
+    margin:0px;
+  }
